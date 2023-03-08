@@ -1,1 +1,2 @@
-Hola, este es mi segundo saludo, gracias
+Hola, este es mi segundo saludo
+Chau hasta luego
